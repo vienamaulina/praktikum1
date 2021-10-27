@@ -3,7 +3,7 @@
 ### Nim : 312110469
 #### Tugas Bahasa Pemrograman
 
-<p> Membuat Program Biodata <p>
+##### Membuat Program Biodata
 <p> ketik script seperti berikut<p>
 
 ![gambar1](ss/ss1.png)
@@ -14,7 +14,7 @@
 
 ![gambar2](ss/ss2.png)
 
-<p> Membuat Program Penjumlahan dan Pembagian <p>
+###### Membuat Program Penjumlahan dan Pembagian
 <p> ketik script seperti berikut <p>
 
 ![gambar3](ss/ss3.png)
