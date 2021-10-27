@@ -17,10 +17,10 @@
 <p> Membuat Program Penjumlahan dan Pembagian <p>
 <p> ketik script seperti berikut <p>
 
-![gambar3](ss/ss3)
+![gambar3](ss/ss3.png)
 
 <p> kemudian run, input angka yang diinginkan. kemudian hasil nya seperti ini <p>
 
-![gambar4](ss/ss4)
+![gambar4](ss/ss4.png)
 
 <p>Terimakasih <p>
